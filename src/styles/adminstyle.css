@@ -1,0 +1,9 @@
+@media (min-width:0px) and (max-width:500px){
+    .Aheader{
+        height: 60px;
+    }
+    .box1{
+        font-size: 50px;
+        height: 60px;
+    }
+}

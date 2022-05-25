@@ -1,0 +1,20 @@
+@media (min-width:0px) and (max-width:500px){
+    .homeHeader{
+        font-size: 75%;
+    }
+    .homeHeaderfont{
+        font-size: 15px;
+        text-align: right;
+    }
+    .homeBodyPage{
+        font-size: 40px;
+    }
+    .textHomePageBody{
+        font-size: 20%;
+    }
+    .homePageImage{
+        width: 120px;
+        height: 190px;
+        /* margin-top:10px */
+    }
+}
